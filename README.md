@@ -14,7 +14,7 @@
 ## 🧾 About
 <hr>
 
-**Galeria de Fotos** projeto de uma página web responsiva simples, desenvolvido para aplicação dos conteúdos estudados no curso de SASS.
+**Galeria de Fotos** 
 
 ## 🔧 Tools
 
@@ -54,6 +54,7 @@ This project is under the [MIT](LICENSE) license.
 ---
 <p align="center">Made with 💜 by Janaina Ribeiro </p>
 
+<h4 align="center">
 <a  href="https://www.linkedin.com/in/janainaribeirotech/" target="_blank">See my linkedin</a>
-
+</h4>
 
